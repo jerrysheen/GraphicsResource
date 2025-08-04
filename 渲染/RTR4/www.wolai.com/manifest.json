@@ -1,0 +1,1349 @@
+{
+  "name": "wolai",
+  "short_name": "wolai",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/login",
+  "icons": [
+    {
+      "src": "https://cdn.wostatic.cn/dist/icons/app_icon_pwa_32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.wostatic.cn/dist/icons/app_icon_pwa_64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.wostatic.cn/dist/icons/app_icon_pwa_128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.wostatic.cn/dist/icons/app_icon_pwa_256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.wostatic.cn/dist/icons/app_icon_pwa_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.wostatic.cn/dist/icons/app_icon_pwa_1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ],
+  "version": "1.2.3-15",
+  "date": "2025-07-26T07:40:56.058Z",
+  "origin": "https://www.wolai.com",
+  "scheme": "1.0.0",
+  "debugInfo": {
+    "commit": "588db08"
+  },
+  "files": [
+    {
+      "path": "https://cdn.wostatic.cn/dist/lib/bootstrap/4.4.1/css/bootstrap.min.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/404.f33fa518.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/404.47570e92.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/440.ce922253.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/440.578d01b8.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/app.99b392d6.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/app.1f3e4c79.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/runtime_404.20c059f0.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/runtime_440.96956c6e.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/runtime_app.cdf4709f.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/ali-dingtalk-jsapi.77f558e6.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/lazy-module-js-sls-logger.7259f0c7.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/hls.2a10916d.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/7211.b737bcfb.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/7211.b2ad41e7.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/demo-mode.e9f11e24.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/demo-mode.4e80adf9.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/4962.868b96c0.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/4962.3fa02e22.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/1718.1abab332.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/1718.ed77ca2c.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/nav-drawer.18eb2012.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/nav-drawer.565b8cce.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/1934.bc7eaaf2.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/async_graph_player.e85b3f3d.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/async_converter.dcd3bde3.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/async_workflow.b0e796b8.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/async_pc_preview_image.d58e58a9.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/async_mobile_preview_image.0851ca56.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/prism.865f9be9.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/prettier-parser-html.3f150107.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/prettier-parser-typescript.2aa808f7.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/prettier-parser-estree.1c2ebbb0.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/prettier-parser-postcss.77b5757e.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/prettier-parser-yaml.b238f65e.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/prettier-parser-markdown.f2340576.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/prettier-parser-flow.5c972581.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/prettier-parser-graphql.8537ff69.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/1714.58ef78dd.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/7654.8f2716fb.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/sql-formatter.7475d649.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/print.1a625f71.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/print.36c60762.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/intersection-observer-polyfill.a372be01.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/dom-rect-polyfill.98aaee8d.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/get-own-property-descriptors-polyfill.0ee6e181.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/ali-dd-resource-picker.ccf6821e.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/ali-dd-resource-picker.34acb38e.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/ali-oss.5ab1f3f0.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/home-page.f7af0356.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/home-page.c80603ab.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/logout-page.2ba33587.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/profile-page.0573b877.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/profile-page.fb8d3145.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/editor-page.9ce6c4cd.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/editor-page.a6ed9dc0.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/share-page.09128799.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/share-page.d3c65f78.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/share-commission.b28f783b.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/share-commission.9ceefcbe.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/poster-page.e1582453.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/poster-page.1a285c76.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/share-form.243b40c5.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/share-form.6cb5579c.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/dingtalk-tryout.d9f359f1.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/dingtalk-login.2a59bcb8.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/dingtalk-login.04bb0a1d.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/dingtalk-template.ab5dd25b.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/wemeet-auth.08f7c2e6.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/wechat-auth.d1f08973.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/wecom-auth.3b2edea9.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/mobile-space-profile.b3a69081.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/mobile-space-profile.a1ba5dfb.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/mobile-user-center.cf03f7af.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/mobile-user-center.6cc10c4e.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/mobile-user-credit.673b1972.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/mobile-user-credit.2431bc41.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/mobile-user-order.4008aab2.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/mobile-user-order.8d0cf660.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/mobile-user-more.9fa261a7.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/mobile-user-more.da86a0f0.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/mobile-user-info.4cad28ec.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/mobile-user-info.ed2f5547.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/mobile-user-info-export.0f4b7e6a.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/mobile-user-info-export.74d57183.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/mobile-user-delete.871de965.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/mobile-user-delete.13ce0098.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/develop.889ce8ec.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/develop.663e3a45.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/messages-center.4005f8ad.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/messages-center.4e64c80b.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/trash-page.9d69913a.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/trash-page.aedcf6e1.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/help-center.4e8218e5.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/template.a731d454.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/template.ec846d8e.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/mobile-template-center.3a618c91.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/mobile-template-center.bd688f53.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/oia-page.85a4586f.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/oia-page.2bf538bd.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/dingtalk-redemption-page.f440bdc1.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/dingtalk-redemption-page.8c42f688.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/dingtalk-redemption-list-page.2c3b2fa8.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/dingtalk-redemption-list-page.2c7b5d65.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/global-search.041feebe.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/global-search.809782a3.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/pdfjs.a0c2f52a.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/pdfjs.941c420e.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/4427.9e23ffc1.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/4427.b5bbcbd8.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/basic-block-list.d9af0074.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/basic-block-list.809f77b1.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/html2canvas.439d95fa.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/video-node.78c89b95.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/video-node.f03039b8.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/block-equation-node.53c2c0cf.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/block-equation-node.5be2d61c.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/code-node.607ec074.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/code-node.7ed2b00c.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/login-page.3696dc64.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/login-page.a8f956a2.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/8841.5e0bfdce.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/8841.c5fb4b86.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/audio-node.f06c6940.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/audio-node.a9095afb.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/simple-code-node.5cf5ea3d.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/simple-code-node.558bd15b.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/minder-node.a71de802.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/1201.921790bf.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/1201.bf0e7556.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/dingtalk-jsapi.9229b420.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/network-component.02be9c4f.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/network-component.29dee57b.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/assistant-status.8e73c718.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/header-page.bf0201fb.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/header-page.800dbfaf.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/footer-page.532593a3.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/scroll-to-top-page.255a4abb.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/downloads-page.594453a3.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/downloads-page.efb2d53c.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/invitation-page.86803cc6.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/invitation-page.6532b64d.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/invitation-landing-page.9ebb9109.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/invitation-landing-page.dd7049d2.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/reset-password-page.980e1339.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/reset-password-page.fc369773.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/sign-out-finish-page.dcaca1e2.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/sign-out-finish-page.4c552592.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/pricing-page.58d87461.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/pricing-page.6c926630.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/product-page.f888ec4f.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/product-page.eca3f786.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/8684.e5a3e5e3.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/tour.35617472.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/tour.9938a95a.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/onboarding.142a6aa6.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/onboarding.40b03864.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/1080.d5e551d5.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/1080.e035c642.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/80.5d4e5d90.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/3017.da93894b.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/3017.066d1b46.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/mobile-sidebar-page-menu.c73612fd.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/mobile-sidebar-page-menu.00f773f9.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/desktop-sidebar-page-menu.a3bd5c40.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/desktop-sidebar-page-menu.d0f9f68a.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/mobile-import-dialog.b7cc9228.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/desktop-import-dialog.bfd46c26.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/windows-title-bar.7242b70d.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/windows-title-bar.d7ce05fa.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/dingtalk-onboarding.08039624.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/dingtalk-onboarding.7bc0ad00.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/template-page.9ab4134e.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/template-page.eae65e81.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/template-collections.1f36ea38.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/template-collections.30e7599d.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/template-collection.0a90562a.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/template-collection.c5ba7d81.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/mobile-space-upgrade.5a52de41.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/mobile-space-upgrade.1fa9eca4.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/2258.f17c9eaf.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/942.4b060754.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/7054.5c0bca59.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/6453.db353be1.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/6324.8e9caa01.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/2395.12e2db90.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/9385.7e8f877a.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/8737.4f350d20.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/9751.4d03ed85.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/3514.12b77570.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/1065.ff09eb18.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/7362.41ea0e1c.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/8578.690a9ebf.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/6282.9b107ac0.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/1524.dafcbce1.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/6810.68cfed1d.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/9037.d96c0d89.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/8963.5eadb28f.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/6537.1f879cc7.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/4287.f00da266.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/853.6d50991a.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/6429.1370296d.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/2342.5a9cf2ac.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/8103.df60cf0e.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/4116.59f45b57.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/9154.96393a8f.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/4718.87acbb05.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/7071.a48172b5.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/7071.329b2b04.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/lottie-anim.0a1e773a.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/3299.84e3e8f5.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/9610.128b9c7f.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/4526.ec8ad82a.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/9014.baca8cef.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/316.4e75ebfb.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_0ce4569834e0.b3b3c3d7.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_ccae16942a3f.e2a66e9a.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_df09a8639499.c7ead0d7.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/commons_1a6ca717bf31.343468da.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_1a6ca717bf31.12410ab1.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_1678059c6dd3.1b7e2706.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/commons_aba61ee25d5f.57ae6c3c.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_aba61ee25d5f.c50eb2c5.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/commons_ea146d1cd7ba.7e8cee23.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_ea146d1cd7ba.c55f01a5.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_b33030a3218f.517522c5.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_4abf578c1f8b.8880ec1a.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_cd27945a9aa2.f3fbd2ac.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_910da559d20a.f8cc5798.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_0fb68bc274e0.990d854c.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/commons_c8a60286ac98.3a30e9d5.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_c8a60286ac98.d66abd55.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_31b612bdafa8.f42228d1.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_2c23c73968a4.e8ca60e2.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/commons_0e833c6b3d58.cacc2c75.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_520ed9fbcea5.122fa3f7.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/commons_58283a33aee8.ade7392a.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_58283a33aee8.8cc5f1bc.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_53a0acfad593.b50e31d1.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_bf2957508fb8.ca8aadb6.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_986874543dee.93d5eed8.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/commons_ac67c31b33ec.b86801ee.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_ac67c31b33ec.617f5d05.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/8996.eded80de.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/commons_10f99437cfd9.bb5a7fbe.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_88f639a3f8aa.3c1bafb4.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_ebdeecb02140.610e6b9d.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_ca446d2df04f.c4fceebb.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_7e61e388e79d.17ede735.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/commons_e87c278547d5.aa71024a.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_e87c278547d5.853d286c.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/commons_0e016af1154d.cb96a0dd.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_0e016af1154d.f2d1c934.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_b7a9be6f0290.c1d3d51e.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/2032.c1b2a80c.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_4cf9c874edee.d9b28ad8.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_932dc636c215.1a41dbd3.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_6e226d21feae.542f1c6f.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/commons_898cd4847572.0b2572e8.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_898cd4847572.0b485368.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/6287.b81b5dbf.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/commons_b393c52d97e6.c02205a7.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_b393c52d97e6.13649d56.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_5f0ffb2a4c31.50c15600.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_b151f38bc313.17defdee.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_339eb5becf69.73cfcb87.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/commons_fec27b8e0fca.52cddc52.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_4f2a1faa9b67.40970b2c.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_975c8c312959.9a505e49.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_baa6dab31490.ee268dc7.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_e43505ba36ba.8809f373.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_fa79402d114f.4f14a5e7.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_7679d8aabdce.85b56905.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_05fce6874053.00d4904d.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/1363.7ddecbc1.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/commons_c147ef162e02.f4735010.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_c147ef162e02.aa9d5159.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_10c7452206d8.5e9ff91b.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/3273.afb00682.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_f530a247b8e2.a3fffb12.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_ed9fb28253e5.70408984.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_60a38dca7d9c.433b67b8.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_95085b746b27.8d16cca0.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_3fbb609f0fab.63ee40d9.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_8da87ad761e2.4ff5f333.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_15292871b41b.26d5565b.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/5350.285cea15.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_10a53e57e5b7.2905c297.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/commons_42c1b0a3e256.2faf72c6.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_42c1b0a3e256.2e1a2408.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/commons_087c74e91213.c011c94a.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_087c74e91213.f31e142c.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_ed05e1545876.1287f0c2.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_364ae1298244.1f3ca3ab.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_a96771a4f453.fdc40d73.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_53b82863c3b4.290c7df2.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/commons_e67cde7294b7.b5858b2e.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_e67cde7294b7.8372b696.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_75d3e40f7ca5.6d4d4827.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_7231c8835a98.7050d3f2.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_4f5f53b862a4.e0c22f3c.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_06dde1288f31.ec528011.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_0b3f76926ef0.09a57ead.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_ee7480b9b203.1afc33e6.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_fe34de968ef5.4f45fcc7.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_da266e733e81.87c04c68.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_c01644de9e6c.456a2e83.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/4466.ad9361f6.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/3402.73514b92.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/commons_6e8e191e3d91.abfe57b2.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/1525.0c4e76be.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/1710.e9424fdb.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/707.c61ed91a.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/8473.dd522440.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/451.caee96d3.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/6436.0acac6dd.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/6020.e1b89881.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/1194.522f06b9.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/7123.b4f0bdfe.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/7123.e6c58379.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/css/4560.c5753e78.css"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/4560.f50b4091.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/5822.3f0fb82c.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/2360.bf916f2b.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/6611.54712b42.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/635.edfa6405.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/f6fe5aef2819a195480b0ef4c7443a80.gif"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/700bdd4c708a90fe479ea0639e2aa724.gif"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/58821fd7ff0a4e00dea48cb2496c9c24.gif"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/d3934a5377250958b7767722a666c7fb.gif"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/27335ee5123379f697ae25f403b370aa.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/e7391a200c575659089c84dac40e6812.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/86afcb9778e1a1079b0cc85840c7fad4.gif"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/2bf186d6726999428c83b7326d8b2e44.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/70ed969aafcee00a49e25c269c2e1a78.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/82e1d5e1046f911ba2b4caeea2a53370.gif"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/72a4e99366b33d7320fa2aecb19ec0c2.gif"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/b4a0fe7c07b2adab40f56e01be8e80a7.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/62b5088fbc9138336add743d26d964c5.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/ac04a08f4840ee918b85b28fcdf3607e.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/56573229753fad48910bda2ea1a6dd54.ttf"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/818582dae57e6fac46202cfd844afabb.ttf"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/41abebaf6b68ca565f9420d7c9cdac8a.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/8e431f7ece346b6282dae3d9d0e7a970.ttf"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/e4578635b5808c52c1b74aaeab6760e2.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/b326daa69684987e63bc008dde135bf4.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/6aa3234a25d1a2d756375ec5840b014b.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/49fda51e0cd1e9dc0a49162a27716bc9.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/c76f9f37052d85a8b2efaf0b9ef59dc2.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/99fc3ee39545b8b51459f800e1b2484d.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/39349e0a2b366f38e2672b45aded2030.ttf"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/10824af77e9961cfd548c8a458f10851.woff"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/52fb39b0434c463d5df32419608ab08a.ttf"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/ad4ae97f23d867115f8681649fab6053.jpg"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/fe5ed5875d95b18c98546cb4f47304ff.ttf"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/6589c4f1f587f73f0ad0af8ae35ccb53.ttf"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/f1cdb692ee31c10b37262caffced5271.woff"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/4cdba6465ab9fac5d3833c6cdba7a8c3.woff"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/2a11aa7037bd5045f5f9b5418514f9dc.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/66c678209ce93b6e2b583f02ce41529e.woff2"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/6bf4287568e1d3004b54d5d60f9f08f9.ttf"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/bc468b6ac21f72c3ba9928298de06641.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/05d1bfcde828fd59e9e9f8e1634bf953.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/f8a7f19f45060f7a177314855b8c7aa3.woff2"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/a9382e25bcf75d856718fcef54d7acdb.woff2"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/f2ac73121357210d91e5c3eaa42f72ea.ttf"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/0857e4d954aa414cca2829c60baa1c56.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/75ded5fda6f467c559f16b0d1fd95d6a.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/f60b4a34842bb524b562df092917a542.ttf"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/a87367fa6764191fbe1cc8edbbebad1a.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/d45a69b6a1e3d4bfdc556f0a120029eb.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/789c8fe07ccd5f5babda4a3b88219629.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/82f1992ab7baf85565262e8f96506f91.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/javascript/sync.worker.46fabc0e.worker.js"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/05f71dd4fa8b4ce8c129a301a3011f99.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/fc2ba4f90cf8be8df88a6f8b1582a694.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/69a3bcd4334e07c09526fa6c170e47e5.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/996b50c8dba9a77ee7444a0ac12e3476.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/8ffd28f6390231548ead99d7835887fa.woff"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/b9d7c4497cab3702487214651ab03744.ttf"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/97a699d83318e9334a0deaea6ae5eda2.ttf"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/3243452ee6817acd761c9757aef93c29.ttf"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/5f875f986a9bce1264e8c42417b56f74.woff"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/ed7aea12d765f9e2d0f9bc7fa2be626c.woff"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/48155e43d9a284b54753e50e4ba586dc.woff"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/246d2305cc65bb6279abf2f02eea023c.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/734657a74d975fad1438ff5569b13512.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/652970624cde999882102fa2b6a8871f.woff2"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/d873734390c716d6e18ff3f71ac6eb8b.woff2"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/a189c37d73ffce63464635dc12cbbc96.ttf"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/index.63b50442.html"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/d8b7a801bd87b324efcbae7394119c24.woff2"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/1320454d951ec809a7dbccb4f23fccf0.woff2"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/404.cfcf4e57.html"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/0e0460587676d22eae09accd6dcfebc6.woff"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/78aa431fcff22355cb63b350477184df.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/440.25bcb1bc.html"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/c1c0df914b0f1ae1510674ccb2f1c334.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/e1c9d2e734a715fae67fd1d5e1492aa1.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/70fec23955e19b864cfd93cfafbdf593.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/0e897d27f063facef504667290e408bd.woff"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/ef725de572b71381dccf53918e300744.woff"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/b8b8393d2e65fcebda5fa99fa3264f41.woff2"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/40934fc076960bb989d590db044fef62.woff"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/e435cda5784e21b26ab2d03fbcb56a99.woff"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/852a51fa760a5a12be309d017361bc5f.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/7d9b440639c4fbc29a7f40c327614a2e.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/497bf407c4c609c6cf1f1ad38f437f7f.ttf"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/e6fb499fc8f9925eea3138cccba17fff.ttf"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/5f8637ee731482c44a37789723f5e499.woff"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/c869f6075d0b6500407e734870c0c67e.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/0d8d9204004bdf126342605f7bbdffe6.ttf"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/ad546b4719bcf690a3604944b90b7e42.woff2"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/e934cbc86e2d59ceaf04102c43dc0b50.woff2"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/2e09b3e057e469fe9e5d0f157f67e62d.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/28ed2a106c358efcf11e012a8f9afaa3.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/409e63c3d89f169b22f6f2d4573eaf71.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/1fdda0e59ed35495ebac28badf210574.ttf"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/f1d9d2e65bc98f82faf051aea124e11b.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/84617631669fa7929950d358d94ecfbf.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/796f3797cdf36fcaea18c3070a608378.woff2"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/f9e6a99f4a543b7d6cad1efb6cf1e4b1.woff2"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/d8c5eb8fb10f39fce634b5c2011383de.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/22329a8cb5a82d69f1e3bf8afd1e55e6.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/c26677550f9d9d7a27ca134328ab66d7.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/c2147981d62ca95ce32e8b5233c05ad7.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/a82fa2a7e18b8c7a1a9f6069844ebfb9.woff"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/5a9ca8ee06d343b86567f89f6d039cb3.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/104aea3100342a924e2183d22be5f287.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/img/eceae8795596b2ccfd633665fdfbcac8.png"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/27a23ee69999affa55491c7dab8e53bf.ttf"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/1ac3ed6ebe34e473519ca1da86f7a384.woff2"
+    },
+    {
+      "path": "https://cdn.wostatic.cn/dist/assets/font/1b3161eb8cc67462d6e8c2fb96c68507.woff2"
+    }
+  ]
+}

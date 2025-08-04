@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "011dcf9cafa8538e",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe69a346d16dbef9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ac231a50f5a27c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "源码实现/C sharp Array 和 C++层的通信：.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C sharp Array 和 C++层的通信："
+            }
+          },
+          {
+            "id": "1caa9e63eeba18b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "源码实现/C sharp Array 和 C++层的通信：.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C sharp Array 和 C++层的通信："
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da5e52b06cc3ee47",
+    "type": "split",
+    "children": [
+      {
+        "id": "158eeb0752eba6ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69e3c63b34a45c81",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "dd6942aa37816dac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "34de72d223d3cc47",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e510a433456b345c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f10d8161278c4eac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a702c6b1147b0ac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "源码实现/C sharp Array 和 C++层的通信：.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for C sharp Array 和 C++层的通信："
+            }
+          },
+          {
+            "id": "b30bd00e1312fe63",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "源码实现/C sharp Array 和 C++层的通信：.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from C sharp Array 和 C++层的通信："
+            }
+          },
+          {
+            "id": "f70e2b4649a4d5f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "50b9598009daecc5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "源码实现/C sharp Array 和 C++层的通信：.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of C sharp Array 和 C++层的通信："
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "1caa9e63eeba18b6",
+  "lastOpenFiles": [
+    "源码实现/C sharp Array 和 C++层的通信.示意图.md",
+    "源码实现/C sharp Array 和 C++层的通信：.md",
+    "移动端性能/Mali/EE工作流程.excalidraw",
+    "移动端性能/Mali/HLSL到具体执行指令流程.excalidraw",
+    "渲染/球谐/公式推导_代码实现/公式推导+代码实现.md",
+    "渲染/RTR4/cdn.wostatic.cn/dist/lib/bootstrap/4.4.1/css/bootstrap.min.css",
+    "渲染/RTR4/cdnjs.cloudflare.com/ajax/libs/eruda/3.4.1/eruda.min.js",
+    "渲染/RTR4/cdn.wostatic.cn/dist/lib/bootstrap/4.4.1/css",
+    "渲染/RTR4/cdnjs.cloudflare.com/ajax/libs/eruda/3.4.1",
+    "渲染/RTR4/g.alicdn.com/data-security-manager/web-watermark/1.0.30/index.js",
+    "渲染/RTR4/cdn.wostatic.cn/dist/lib/bootstrap/4.4.1",
+    "渲染/RTR4/g.alicdn.com/alilog/mlog/aplus_v2.js",
+    "渲染/RTR4/img.alicdn.com/imgextra/i3/O1CN01Du15yN1DuuZsvy8g4_!!6000000000277-2-tps-32-32.png",
+    "渲染/RTR4/o.alicdn.com/dingding/bird/index.js",
+    "渲染/球谐/基本概念推导_带旋转性/images/4v2-ef669e616839bc58a8e6f62d72acb50f.jpg",
+    "渲染/球谐/基本概念推导_带旋转性/images/5v2-7fd961f86c6dc066444bff9b4ce6e443.jpg",
+    "渲染/球谐/基本概念推导_带旋转性/images/xsjCover.jpg",
+    "渲染/球谐/基本概念推导_带旋转性/images/7v2-0b8e4ff0a10ecab38e1654824db7db63.jpg",
+    "渲染/球谐/基本概念推导_带旋转性/images/6v2-21db4a71e10b52d965cde422abf317a8.jpg",
+    "渲染/球谐/基本概念推导_带旋转性/images/3v2-8be8c34300aae33edbeb1d8e881bd1c9.jpg",
+    "渲染/球谐/基本概念推导_带旋转性/images/2v2-279e415347450ea816c16599eb45a927.jpg",
+    "渲染/球谐/基本概念推导_不带旋转性/images/4v2-779a2329b0ea8ba4eb10f5822f1e6690.jpg",
+    "渲染/球谐/基本概念推导_不带旋转性/images/2v2-8dc567c5c358965491c036d8798304cb.jpg",
+    "渲染/球谐/基本概念推导_带旋转性/readme.md",
+    "渲染/球谐/基本概念推导_带旋转性/【论文复现】An Efficient Representation for Irradiance E.md",
+    "渲染/球谐/公式_和Unity衔接部分/readme.md",
+    "渲染/球谐/基本概念推导_不带旋转性/【论文复现】Spherical Harmonic Lighting!The Gritty Detai.md",
+    "渲染/球谐/基本概念推导_不带旋转性/readme.md",
+    "渲染/球谐/公式_和Unity衔接部分/重新理解PBR（2）——漫反射全局光照.md",
+    "Welcome.md"
+  ]
+}

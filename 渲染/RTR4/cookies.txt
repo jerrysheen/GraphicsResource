@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.wolai.com	TRUE	/	FALSE	1999999999	acw_tc	1-6886d9db-165edec2-d6a3390faffe457ad8e1c99f5088639865192ba8465b
+
